@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(222, 247, 245) ;
+   }
+  
+  .card-header{
+  background-color: rgb(17, 17, 16);
+  color: white;
+  text-transform: uppercase;
+  }  
+  .card{
+    background-color:rgb(209, 195, 195);
+  }
+  .card-text{
+    
+  text-align: center;
+  font-size: 18px;
+  
+  
+  }
+  
+  img{
+    border: 1px solid rgb(209, 195, 195);
+
+  
+  }
+.card-img-top{
+  padding: 20px;
+}
+h1{
+  background-color: pink;
+}
+.btn-primary{
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 20px;
+}
